@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
-const tools = require('../lib/tools');
 const nock = require('nock');
+const tools = require('../lib/tools');
 
 describe('Tools', () => {
 
